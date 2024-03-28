@@ -1,0 +1,110 @@
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.exe
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.deps.json
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.runtimeconfig.json
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.dll
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.pdb
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Form1.resources
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Properties.Resources.resources
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.AssemblyInfo.cs
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.dll
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\refint\Lenguajes.dll
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.pdb
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.genruntimeconfig.cache
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\ref\Lenguajes.dll
+C:\Users\danie\source\repos\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Form2.resources
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.exe
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.deps.json
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.runtimeconfig.json
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.pdb
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Form1.resources
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Form2.resources
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Properties.Resources.resources
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.csproj.GenerateResource.cache
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.AssemblyInfoInputs.cache
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.AssemblyInfo.cs
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.csproj.CoreCompileInputs.cache
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\refint\Lenguajes.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.pdb
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.genruntimeconfig.cache
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\Lenguajes\obj\Debug\net8.0-windows\ref\Lenguajes.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.exe
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.deps.json
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.runtimeconfig.json
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.pdb
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Form1.resources
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Form2.resources
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Properties.Resources.resources
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.csproj.GenerateResource.cache
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.AssemblyInfoInputs.cache
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.AssemblyInfo.cs
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.csproj.CoreCompileInputs.cache
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\obj\Debug\net8.0-windows\refint\Lenguajes.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.pdb
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.genruntimeconfig.cache
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding\Lenguajes\obj\Debug\net8.0-windows\ref\Lenguajes.dll
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.exe
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.deps.json
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.runtimeconfig.json
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.dll
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.pdb
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Form1.resources
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Form2.resources
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Properties.Resources.resources
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.csproj.GenerateResource.cache
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.AssemblyInfoInputs.cache
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.AssemblyInfo.cs
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.csproj.CoreCompileInputs.cache
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.sourcelink.json
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.dll
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\refint\Lenguajes.dll
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.pdb
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.genruntimeconfig.cache
+C:\Users\danie\Dropbox\Lenguajes\Proyecto\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\ref\Lenguajes.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.exe
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.deps.json
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.runtimeconfig.json
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.pdb
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Form1.resources
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Form2.resources
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Properties.Resources.resources
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.csproj.GenerateResource.cache
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.AssemblyInfoInputs.cache
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.AssemblyInfo.cs
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.csproj.CoreCompileInputs.cache
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.sourcelink.json
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\refint\Lenguajes.dll
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.pdb
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.genruntimeconfig.cache
+C:\Users\dalva\Documents\Unitec\2024\Q1 2024\Lenguajes de Programacion\ProyectoPathfinding_Lenguajes\Lenguajes\obj\Debug\net8.0-windows\ref\Lenguajes.dll
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Form1.resources
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Form2.resources
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.Properties.Resources.resources
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.csproj.GenerateResource.cache
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.AssemblyInfoInputs.cache
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.AssemblyInfo.cs
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.csproj.CoreCompileInputs.cache
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.exe
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.deps.json
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.runtimeconfig.json
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.dll
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\bin\Debug\net8.0-windows\Lenguajes.pdb
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.dll
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\obj\Debug\net8.0-windows\refint\Lenguajes.dll
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.pdb
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\obj\Debug\net8.0-windows\Lenguajes.genruntimeconfig.cache
+D:\Descargas\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\ProyectoPathfinding_Lenguajes-3035c8c9c64f3930cdf66ce2f8b4b337f6ee37f1\Lenguajes\obj\Debug\net8.0-windows\ref\Lenguajes.dll
